@@ -1,0 +1,8 @@
+
+wget
+tarfile
+numpy
+pandas
+sklearn
+tensorflow
+transformers
